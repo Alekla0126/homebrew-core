@@ -1,8 +1,8 @@
 class Librist < Formula
   desc "Reliable Internet Stream Transport (RIST)"
   homepage "https://code.videolan.org/rist/"
-  url "https://code.videolan.org/rist/librist/-/archive/v0.2.15/librist-v0.2.15.tar.gz"
-  sha256 "6025d19b11b6ab57c5e8a00df68cbfc72ef83444afefd2bdcc81ce592884cb87"
+  url "https://code.videolan.org/rist/librist/-/archive/v0.2.16/librist-v0.2.16.tar.gz"
+  sha256 "ffcf575f02032ec89dfd6effa2e6f9a505d8dc2902853f10e83ab169ea588e20"
   license "BSD-2-Clause"
   compatibility_version 1
   head "https://code.videolan.org/rist/librist.git", branch: "master"
